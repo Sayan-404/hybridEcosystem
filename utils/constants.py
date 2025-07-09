@@ -1,0 +1,19 @@
+SCREEN_WIDTH = 1200
+SCREEN_HEIGHT = 900
+UI_WIDTH = 400
+SIM_WIDTH = SCREEN_WIDTH - UI_WIDTH
+GRID_SIZE = 20
+GRID_WIDTH = SCREEN_WIDTH // GRID_SIZE
+GRID_HEIGHT = SCREEN_HEIGHT // GRID_SIZE
+BOIDS = int(input("Enter the number of bacteria : "))
+FOOD_INDEX = int(input("Enter the food index "))
+
+# Colors
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+GREEN = (0, 255, 0)
+RED = (255, 0, 0)
+BLUE = (0, 0, 255)
+YELLOW = (255, 255, 0)
+GRAY = (128, 128, 128)
+DARK_GRAY = (64, 64, 64)
