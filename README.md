@@ -73,6 +73,3 @@ Prompts will appear to set:
 
 On-screen sliders can be used to modify real-time behaviour.  
 CSV logs will allow long-run analysis and graph generation.
-
-## Contributors  
-`Sayan Saha` `Shubhamita Banerjee`
